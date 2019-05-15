@@ -1,0 +1,6 @@
+*/target/**
+/target/
+*/LogFile/**/LogFile/*
+/LogFile/
+/result/
+/node_modules/
